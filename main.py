@@ -31,5 +31,5 @@ async def main():
 
 asyncio.run(main())
 
-#token: MTE1MDUxMDY4NzE2OTI5MDI3MA.G58TiH.Fv2eSco4Aw-xKwQtMOY1_ooJAQAGOAo3Z1tMt0
-client.run("MTE1MDUxMDY4NzE2OTI5MDI3MA.G58TiH.Fv2eSco4Aw-xKwQtMOY1_ooJAQAGOAo3Z1tMt0")
+
+client.run("token")
